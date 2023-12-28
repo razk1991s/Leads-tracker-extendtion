@@ -1,2 +1,2 @@
-Building an extendtion chrome project with JS HTML CSS
+Building an extendtion chrome project with ``Java Script`` , ``HTML`` , ``CSS``
 
